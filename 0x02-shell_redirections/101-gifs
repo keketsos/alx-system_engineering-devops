@@ -1,2 +1,2 @@
 #!/bin/bash
-fgrind -name '*.gif' -type f -printf '%f/n'| LC_ALL=C sort -f
+fgind -name '*.gif' -type f -printf '%f/n'| LC_ALL=C sort -f
